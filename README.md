@@ -34,11 +34,25 @@ This dashboard provides a comprehensive and interactive election analysis tool, 
 
 ## Project Sections
 
-1. [Landing Page](https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Landing%20page)
-2. [Overview Analysis](https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Overview%20Analysis)
-3. [State Demographic Analysis](https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/State%20Demographics%20Analysis)
-4. [Political Landscape by State](https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Political%20Landscape%20by%20State)
-5. [Constituency Analysis](https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Constituency%20Analysis)
-6. [Details Grid](https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Details%20Grid)
+## Dashboard Screenshots  
+
+### 1. Landing Page  
+![Landing Page](https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Landing%20page.png?raw=true)
+
+### 2. Overview Analysis  
+![Overview Analysis](https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Overview%20Analysis.png?raw=true)
+
+### 3. State Demographic Analysis  
+![State Demographic Analysis](https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/State%20Demographics%20Analysis.png?raw=true)
+
+### 4. Political Landscape by State  
+![Political Landscape by State](https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Political%20Landscape%20by%20State.png?raw=true)
+
+### 5. Constituency Analysis  
+![Constituency Analysis](https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Constituency%20Analysis.png?raw=true)
+
+### 6. Details Grid  
+![Details Grid](https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Details%20Grid.png?raw=true)
+
 
 
