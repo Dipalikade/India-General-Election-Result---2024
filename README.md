@@ -32,3 +32,12 @@ Visualization Techniques: Filled maps, shape maps, bubble maps, donut charts, an
 Outcome:
 This dashboard provides a comprehensive and interactive election analysis tool, useful for political analysts, researchers, and the general public to understand voting patterns, alliance dominance, and candidate-level insights across India.
 
+1.Landing Page : https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Landing%20page
+2.Overview Analysis : https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Overview%20Analysis
+3.State Demographic Analysis :https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/State%20Demographics%20Analysis
+
+4.Political Landscape by State:https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Political%20Landscape%20by%20State
+
+5.Constituency Analysis :https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Constituency%20Analysis
+6.Details Grid :https://github.com/Dipalikade/India-General-Election-Result---2024/blob/main/Details%20Grid
+
